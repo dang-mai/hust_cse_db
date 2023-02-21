@@ -8,5 +8,5 @@
 > 4. 访问```http://localhost:port ```
 # hust_cse_db
 
-If you want to visit the example website, please contact with me.
+If you want to visit the example website, please contact me.
 
